@@ -1,1 +1,1 @@
-# VS2022
+# VS2022 este es un curso de C# objetos
